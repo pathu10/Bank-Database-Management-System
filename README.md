@@ -22,12 +22,12 @@ The **Banking Management System (BMS)** is a comprehensive software solution des
    ```bash
    git clone https://github.com/pathu10/BankingManagementSystem.git
 2. Set up the database:
-- Import the provided SQL dump (bank.sql) into your MySQL database.
-- Configure database credentials in the backend configuration file.
+   - Import the provided SQL dump (bank.sql) into your MySQL database.
+   - Configure database credentials in the backend configuration file.
 3. Start the server:
-- Use a local server (like XAMPP or WAMP) to run the PHP backend.
+   - Use a local server (like XAMPP or WAMP) to run the PHP backend.
 4. Access the application:
-- Open the project in your web browser at localhost/project-directory.
+   - Open the project in your web browser at localhost/project-directory.
 
 ## Usage
 - **Customers:** Can view and manage their accounts, check transaction history, apply for loans, and interact with customer support.
